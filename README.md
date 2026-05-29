@@ -31,8 +31,4 @@ Future Improvements
 * Add CSS styling
 * Make the website responsive
 * Add more recipes
-<<<<<<< HEAD
 * Improve page layout and design
-=======
-* Improve page layout and design
->>>>>>> aa3e5e70077c7eff09c6fb49116b6344c1fb5270
